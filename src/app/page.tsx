@@ -6,7 +6,7 @@ export default function Home() {
       <h1 className="text-5xl font-bold tracking-tight text-stone-900">StoryAlive</h1>
       <p className="text-stone-500">An animated story experience</p>
       <Link
-        href="/story"
+        href="/calibrate"
         className="rounded-full bg-stone-900 px-6 py-3 text-sm font-medium text-white hover:bg-stone-700 transition-colors"
       >
         Begin Story
