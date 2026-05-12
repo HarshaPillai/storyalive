@@ -1,3 +1,7 @@
 import type { NextConfig } from "next";
-const nextConfig: NextConfig = {};
+
+const nextConfig: NextConfig = {
+  serverExternalPackages: ["@mediapipe/tasks-vision"],
+};
+
 export default nextConfig;

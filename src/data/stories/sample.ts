@@ -1,3 +1,4 @@
+// Structure to be finalised once Pretext.js schema is known
 export const sampleStory = {
   id: "sample",
   title: "The Very Hungry Caterpillar",
